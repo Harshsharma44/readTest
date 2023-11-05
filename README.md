@@ -6,7 +6,11 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Getting Started](#getting-started)
+- [How to Use](#how-to-use)
 - [Usage](#usage)
+- [Technology Stack](#technology-stack)
+- [Use Cases](#use-cases)
+
 
 ## Introduction
 
