@@ -1,7 +1,6 @@
 
 # VR Odyssey
-![VR Odyssey Logo](https://drive.google.com/file/d/1z636n07nvHlNJewinCjRFN8BtfduSLzP/view?usp=sharing)
-
+![_4232ce5d-436d-484d-8c7c-1de34b945523](https://github.com/Harshsharma44/readTest/assets/97427100/d9e58b10-7c17-484c-a18b-ecf1d510087b)
 
 ## Table of Contents
 - [Introduction](#introduction)
